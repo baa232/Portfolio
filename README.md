@@ -4,6 +4,9 @@ This is a brief list of projects that I have gotten to work on in the past.
 ## Cerner Corporation
 
 - **React Web Application - Release Dashboard Project**
+
+![Project Picture 1](Cerner-ReactWebApplication/screenshot1.png?raw=true "Release Dashboard")
+
 - Description: I built this Web App with the purpose of speeding up new version releases by grabbing the GitHub commits of other software engineers and checking their commit IDs to see if they are also documented in JIRA for that version release.
 - Code: Primarily built using React, Node.js, and React Bootstrap (front-end framework).
 ---
@@ -18,6 +21,9 @@ This is a brief list of projects that I have gotten to work on in the past.
 ## BluCurrent Credit Union
 
 - **Vue.js Web Application - Web Page Creation & Search Engine Population**
+
+![Project Picture 2](BluCurrentCreditUnion-VueWebApp/Screenshot1.jpg?raw=true "BluCurrent Web Page")
+
 - Description: I was tasked with creating a new web page for Frequently Asked Questions and implemented a Search Engine Population Tool
 - Code: Vue.js, java, PHP, and SQL.
 ---
