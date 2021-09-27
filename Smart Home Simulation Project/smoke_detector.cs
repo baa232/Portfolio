@@ -1,13 +1,3 @@
-﻿/*
- * PLEASE READ EULA LICENSE DOCUMNET FOR TERMS OF USE BY END USERS.
- * This Project is not covered by GNU GPL and therefore may not be
- * distributed to anyone without a EULA specific to this project.
- * See the EULA document for more details.
- * You should have received a copy of the EULA along with this program. 
- * If not, see <https://unity3d.com/legal/as_terms?_ga=2.10484016.489677900.1619541417-851981439.1611271094>
-*/
-
-
 using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
