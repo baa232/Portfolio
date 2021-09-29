@@ -18,9 +18,6 @@ This is a brief list of projects that I have gotten to work on in the past.
 ## BluCurrent Credit Union
 
 - **Vue.js Web Application - Web Page Creation & Search Engine Population**
-
-![Web Project](https://raw.githubusercontent.com/baa232/Portfolio/main/BluCurrent%20Credit%20Union%20-%20Vue%20Web%20App/Screenshot1.JPG?raw=true "BluCurrent Web Page")
-
 - **Description:** I was tasked with creating a new web page for Frequently Asked Questions and implemented a Search Engine Population Tool.
 - **Code:** Vue.js, java, PHP, and SQL.
 ---
